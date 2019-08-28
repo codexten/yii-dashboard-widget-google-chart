@@ -14,8 +14,8 @@
     "branch-alias": {
       "dev-master": "2.0.x-dev"
     },
-    "sconfig-plugin": {
-      "bootstrap3": "config/google-chart.php"
+    "config-plugin": {
+      "web": "config/web.php"
     }
   }
 }
