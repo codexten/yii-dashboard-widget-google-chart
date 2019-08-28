@@ -16,7 +16,7 @@ $widget = $this->context;
 
 <?php $widget->beginContent('content') ?>
 
-<?= GoogleChart::widget(['dataBinding' => 'widget.data']) ?>
+<?= GoogleChart::widget(['dataBindingPrefix' => 'widget.data']) ?>
 
 <?php $widget->endContent() ?>
 
