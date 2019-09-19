@@ -1,8 +1,6 @@
 <?php
 
-
 namespace codexten\yii\dashboard\widgets\GoogleChart\widgets;
-
 
 use codexten\yii\modules\dashboard\widgets\DashboardWidgetInterface;
 use codexten\yii\modules\dashboard\widgets\DashboardWidgetTrait;
