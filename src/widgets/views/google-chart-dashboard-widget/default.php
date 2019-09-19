@@ -12,6 +12,7 @@ $widget = $this->context;
 
 <?php $widget = DashboardWidget::begin([
     'fetchUrl' => $widget->fetchUrl,
+    'title' => $widget->title,
 ]) ?>
 
 <?php $widget->beginContent('content') ?>
